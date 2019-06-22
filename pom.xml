@@ -21,10 +21,10 @@
     <cglibVersion>3.2.5</cglibVersion>
     <codecVersion>1.10</codecVersion>
     <dbcpVersion>1.4</dbcpVersion>
-	<slf4jVersion>1.7.9</slf4jVersion>
-	<fastjsonVersion>1.2.47</fastjsonVersion>
-	<jacksonVersion>2.9.0</jacksonVersion>
-	<quartzVersion>2.2.1</quartzVersion>
+    <slf4jVersion>1.7.9</slf4jVersion>
+    <fastjsonVersion>1.2.47</fastjsonVersion>
+    <jacksonVersion>2.9.0</jacksonVersion>
+    <quartzVersion>2.2.1</quartzVersion>
   </properties>
   <dependencies>
     <dependency>
