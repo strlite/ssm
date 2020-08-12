@@ -15,7 +15,7 @@
     <springVersion>4.3.8.RELEASE</springVersion>
     <mybatisVersion>3.4.2</mybatisVersion>
     <mybatisSpringVersion>1.3.2</mybatisSpringVersion>
-    <mysqlVersion>5.1.9</mysqlVersion>
+    <mysqlVersion>8.0.16</mysqlVersion>
     <junitVersion>4.12</junitVersion>
     <aspectjVersion>1.9.0</aspectjVersion>
     <cglibVersion>3.2.5</cglibVersion>
