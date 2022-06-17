@@ -22,7 +22,7 @@
     <codecVersion>1.10</codecVersion>
     <dbcpVersion>1.4</dbcpVersion>
     <slf4jVersion>1.7.9</slf4jVersion>
-    <fastjsonVersion>1.2.47</fastjsonVersion>
+    <fastjsonVersion>1.2.83</fastjsonVersion>
     <jacksonVersion>2.11.1</jacksonVersion>
     <quartzVersion>2.2.1</quartzVersion>
   </properties>
