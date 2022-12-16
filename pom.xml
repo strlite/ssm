@@ -12,7 +12,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <webVersion>3.1</webVersion>
-    <springVersion>4.3.8.RELEASE</springVersion>
+    <springVersion>5.2.20.RELEASE</springVersion>
     <mybatisVersion>3.4.2</mybatisVersion>
     <mybatisSpringVersion>1.3.2</mybatisSpringVersion>
     <mysqlVersion>8.0.16</mysqlVersion>
